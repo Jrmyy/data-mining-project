@@ -110,7 +110,7 @@ def create_dataframe():
 
 
 
-#TODO: les mettre dans un dataframe et sauvegarder dans un csv
+
 
 
 #create_url_db()
