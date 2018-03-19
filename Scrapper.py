@@ -7,17 +7,17 @@ def create_url_db():
 
     BASE_URL = 'https://www.apartments.com/ca/'
     url_list = []
-    for i in range(1, 28+1):
+    for i in range(1, 28 + 1):
         url = BASE_URL + str(i) + '/'
         req = requests.get(url)
-        soup = BeautifulSoup(req.text, "lxml")
-        html = str(soup)
-        splits = html.split('data-url=')
-        for element in splits:
-            link = element.split('"')[1]
+        soup = BeautifulSoup(req.text, "html.parser")
+        apartments = soup.findAll('a', class_="placardTitle js-placardTitle ")
+        for element in apartments:
+
+            link = element.attrs['href']
             if link != 'false':
                 url_list += [link]
-        f = open("./url-list.txt", "w")
+        f = open("./url-list2.txt", "w")
         f.write(str(url_list))
         f.close()
 
@@ -113,6 +113,6 @@ def create_dataframe():
 #TODO: les mettre dans un dataframe et sauvegarder dans un csv
 
 
-#create_url_db()
+create_url_db()
 #create_dict_housing()
 #create_dataframe()
