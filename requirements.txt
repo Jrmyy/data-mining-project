@@ -1,3 +1,6 @@
 pandas
 requests
 bs4
+jupyter
+scipy
+numpy
