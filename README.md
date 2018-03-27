@@ -7,13 +7,22 @@
 # TODO Pré-traitement
 
 1. Adresses :
- - clustering par categories homogènes ?
- - remettre une colonne par catégorie
+
+  - clustering par categories homogènes ?
+  - remettre une colonne par catégorie
+
 2. Features :
- - Une colonne par features
+
+  - Une colonne par features
+
 3. Model :
- - A dégager
+
+  - A dégager
+
 4. Parking :
- - Une colonne par catégorie
+ 
+  - Une colonne par catégorie
+
 5. Rent = 0 :
- - A enlever
+
+  - A enlever

@@ -1,0 +1,698 @@
+street_address,full_address,lat,lng
+4121 Wilshire Blvd,4121 Wilshire Blvd 90010 Los Angeles,34.0606,-118.3027
+430 Station Park Cir,430 Station Park Cir 94402 San Mateo,37.5507,-122.3276
+850 Davit Ln,850 Davit Ln 94065 Redwood City,,
+1001 Beethoven Cmn,1001 Beethoven Cmn 94538 Fremont,37.5308,-121.9712
+501 S New Hampshire Ave,501 S New Hampshire Ave 90020 Los Angeles,34.0665,-118.3022
+1235 Wildwood Ave,1235 Wildwood Ave 94089 Sunnyvale,37.3983,-122.0006
+2851 Bedford Ln,2851 Bedford Ln 91709 Chino Hills,33.9797,-117.7308
+1 Vista Montana Vis,1 Vista Montana Vis 95134 San Jose,37.4087,-121.9406
+235 S San Pedro St,235 S San Pedro St 90012 Los Angeles,34.0614,-118.2385
+16931 Millikan Ave,16931 Millikan Ave 92606 Irvine,33.6951,-117.8224
+99 Vista Montana,99 Vista Montana 95134 San Jose,37.4087,-121.9406
+2850 Kelvin Ave,2850 Kelvin Ave 92614 Irvine,33.6829,-117.8298
+5650 Owens Dr,5650 Owens Dr 94588 Pleasanton,37.6873,-121.8957
+6040 Center Dr,6040 Center Dr 90045 Los Angeles,33.9631,-118.3941
+4157 Via Marina Via,4157 Via Marina Via 90292 Marina del Rey,33.9779,-118.4525
+6150 De Soto Ave,6150 De Soto Ave 91367 Woodland Hills,34.1767,-118.6159
+340 Fremont St,340 Fremont St 94105 San Francisco,37.7864,-122.3892
+1010 16th St,1010 16th St 94107 San Francisco,37.7621,-122.3971
+1281 9th Ave,1281 9th Ave 92101 San Diego,32.7185,-117.1593
+35 Via Lucca,35 Via Lucca 92612 Irvine,33.6607,-117.8264
+One Saint Francis Pl,One Saint Francis Pl 94107 San Francisco,37.7621,-122.3971
+855 Brannan St,855 Brannan St 94103 San Francisco,37.7725,-122.4147
+1 Henry Adams St,1 Henry Adams St 94103 San Francisco,37.7725,-122.4147
+1551 Union St,1551 Union St 92101 San Diego,32.7185,-117.1593
+717 W Olympic Blvd,717 W Olympic Blvd 90015 Los Angeles,34.0434,-118.2716
+7521 Edinger Ave,7521 Edinger Ave 92647 Huntington Beach,33.721,-118.0033
+185 Channel St,185 Channel St 94158 San Francisco,37.7694,-122.3867
+3221 Carter Ave,3221 Carter Ave 90292 Marina Del Rey,33.9779,-118.4525
+21034 Pacific Coast Hwy,21034 Pacific Coast Hwy 92648 Huntington Beach,33.6773,-118.0051
+19891-19895 Beach Blvd,19891-19895 Beach Blvd 92648 Huntington Beach,33.6773,-118.0051
+969-969 Market St,969-969 Market St 92101 San Diego,32.7185,-117.1593
+6245 Wilshire Blvd,6245 Wilshire Blvd 90048 Los Angeles,34.0737,-118.372
+1330 Market St,1330 Market St 92101 San Diego,32.7185,-117.1593
+388 Beale St,388 Beale St 94105 San Francisco,37.7864,-122.3892
+13603 Marina Pointe Dr,13603 Marina Pointe Dr 90292 Marina Del Rey,33.9779,-118.4525
+1213-1237 S Olive St,1213-1237 S Olive St 90015 Los Angeles,34.0434,-118.2716
+375-399 Fremont St,375-399 Fremont St 94105 San Francisco,37.7864,-122.3892
+2020 W El Camino Real,2020 W El Camino Real 94040 Mountain View,37.3855,-122.088
+2775 Mesa Verde Dr E,2775 Mesa Verde Dr E 92626 Costa Mesa,33.6801,-117.9085
+2700 Peterson Pl,2700 Peterson Pl 92626 Costa Mesa,33.6801,-117.9085
+4250 Glencoe Ave,4250 Glencoe Ave 90292 Marina Del Rey,33.9779,-118.4525
+880 Irvine Ave,880 Irvine Ave 92663 Newport Beach,33.621,-117.9321
+1105 E Katella Ave,1105 E Katella Ave 92805 Anaheim,33.8359,-117.9086
+3033 Wilshire Blvd,3033 Wilshire Blvd 90010 Los Angeles,34.0606,-118.3027
+355 Berry St,355 Berry St 94158 San Francisco,37.7694,-122.3867
+2801 Kelvin Ave,2801 Kelvin Ave 92614 Irvine,33.6829,-117.8298
+837 Hancock St,837 Hancock St 94544 Hayward,37.6374,-122.067
+2656 Associated Rd,2656 Associated Rd 92835 Fullerton,33.8994,-117.9063
+6363 Beadnell Way,6363 Beadnell Way 92117 San Diego,32.8239,-117.1965
+3454 Ruffin Rd,3454 Ruffin Rd 92123 San Diego,32.7973,-117.1392
+4907 1/4 Hayter Ave,4907 1/4 Hayter Ave 90712 Lakewood,33.8512,-118.1457
+14500 Sherman Cir,14500 Sherman Cir 91405 Los Angeles,34.2001,-118.4456
+5700 Sepulveda Blvd,5700 Sepulveda Blvd 91411 Sherman Oaks,34.1781,-118.4574
+811 S Fairview St,811 S Fairview St 92704 Santa Ana,33.7249,-117.909
+2045 S Haster St,2045 S Haster St 92802 Anaheim,33.8085,-117.9228
+12301-12401 Studebaker Rd,12301-12401 Studebaker Rd 90650 Norwalk,33.9056,-118.0818
+201 S Magnolia Ave,201 S Magnolia Ave 92804 Anaheim,33.8186,-117.9729
+3957 Pierce St,3957 Pierce St 92505 Riverside,33.9228,-117.4867
+126 E 18th St,126 E 18th St 92627 Costa Mesa,33.6483,-117.9155
+300-301 W 2nd St,300-301 W 2nd St 92701 Santa Ana,33.7523,-117.8541
+901 S Broadway,901 S Broadway 90015 Los Angeles,34.0434,-118.2716
+1475 Fillmore St,1475 Fillmore St 94115 San Francisco,37.7856,-122.4358
+355 N Wolfe Rd,355 N Wolfe Rd 94085 Sunnyvale,37.3886,-122.0177
+420 La Crescenta Dr,420 La Crescenta Dr 92823 Brea,33.923,-117.798
+2804 Fashion Dr,2804 Fashion Dr 92883 Corona,33.7541,-117.474
+7290 Edinger Ave,7290 Edinger Ave 92647 Huntington Beach,33.721,-118.0033
+1501 Island Ave,1501 Island Ave 92101 San Diego,32.7185,-117.1593
+318 W Wilson Ave,318 W Wilson Ave 91203 Glendale,34.1517,-118.2636
+19550 Vallco Pky,19550 Vallco Pky 95014 Cupertino,37.318,-122.0449
+550 S Main St,550 S Main St 90013 Los Angeles,34.0448,-118.2434
+3900 Business Center Dr,3900 Business Center Dr 94534 Fairfield,38.2423,-122.1314
+555 Pacific Ave,555 Pacific Ave 95060 Santa Cruz,37.0313,-122.1198
+237 McCoy Ln,237 McCoy Ln 93455 Santa Maria,34.8286,-120.4268
+895 Park Blvd,895 Park Blvd 92101 San Diego,32.7185,-117.1593
+313 W California Ave,313 W California Ave 91203 Glendale,34.1517,-118.2636
+150 S Taaffe St,150 S Taaffe St 94086 Sunnyvale,37.3764,-122.0238
+620 S Virgil,620 S Virgil 90005 Los Angeles,34.0585,-118.3012
+1737 Las Palmas Ave,1737 Las Palmas Ave 90028 Hollywood,34.1005,-118.3254
+150 Van Ness Ave,150 Van Ness Ave 94102 San Francisco,37.7813,-122.4167
+705 W 9th St,705 W 9th St 90015 Los Angeles,34.0434,-118.2716
+33 Tehama St,33 Tehama St 94105 San Francisco,37.7864,-122.3892
+12651 Artesia Blvd,12651 Artesia Blvd 90703 Cerritos,33.8669,-118.0686
+3101 Magliocco Dr,3101 Magliocco Dr 95128 San Jose,37.3163,-121.9356
+1200 S Broadway,1200 S Broadway 90015 Los Angeles,34.0434,-118.2716
+3330 E Foothill Blvd,3330 E Foothill Blvd 91107 Pasadena,34.151,-118.0889
+301 Executive Park Blvd,301 Executive Park Blvd 94134 San Francisco,37.719,-122.4096
+2930 Barnard St,2930 Barnard St 92110 San Diego,32.7635,-117.2028
+18504 Beach Blvd,18504 Beach Blvd 92648 Huntington Beach,33.6773,-118.0051
+678 E Walnut St,678 E Walnut St 91101 Pasadena,34.1468,-118.1391
+2038 Shattuck Ave,2038 Shattuck Ave 94704 Berkeley,37.8664,-122.257
+1070 Foxchase Dr,1070 Foxchase Dr 95123 San Jose,37.2458,-121.8306
+1550 N El Centro Ave,1550 N El Centro Ave 90028 Los Angeles,34.1005,-118.3254
+8600 Citrus Ave,8600 Citrus Ave 92335 Fontana,34.0794,-117.4551
+1180 Lochinvar Ave,1180 Lochinvar Ave 94087 Sunnyvale,37.3502,-122.0349
+424 15th St,424 15th St 92101 San Diego,32.7185,-117.1593
+4320 Valley Ave,4320 Valley Ave 94566 Pleasanton,37.6658,-121.8755
+160 W Center St,160 W Center St 92805 Anaheim,33.8359,-117.9086
+6138 Franklin Ave,6138 Franklin Ave 90028 Los Angeles,34.1005,-118.3254
+101-103 Polk St,101-103 Polk St 94102 San Francisco,37.7813,-122.4167
+546 W Colorado St,546 W Colorado St 91204 Glendale,34.1379,-118.2599
+100 Van Ness Ave,100 Van Ness Ave 94102 San Francisco,37.7813,-122.4167
+7795 Neptune Dr,7795 Neptune Dr 92648 Huntington Beach,33.6773,-118.0051
+13900 Panay Way,13900 Panay Way 90292 Marina Del Rey,33.9779,-118.4525
+16250 Homecoming Dr,16250 Homecoming Dr 91708 Chino,33.954,-117.6404
+20200 Lucille Ave,20200 Lucille Ave 95014 Cupertino,37.318,-122.0449
+123 S Figueroa St,123 S Figueroa St 90012 Los Angeles,34.0614,-118.2385
+255 S Grand Ave,255 S Grand Ave 90012 Los Angeles,34.0614,-118.2385
+727 W 7th St,727 W 7th St 90017 Los Angeles,34.0559,-118.2666
+155 Andersen Dr,155 Andersen Dr 94901 San Rafael,37.9691,-122.5105
+1100 Calle Del Cerro,1100 Calle Del Cerro 92672 San Clemente,33.4361,-117.6231
+760 S Hill Rd,760 S Hill Rd 93003 Ventura,34.2846,-119.2222
+4501 Snell Ave,4501 Snell Ave 95136 San Jose,37.2685,-121.849
+7039 Charmant Dr,7039 Charmant Dr 92122 San Diego,32.8577,-117.2115
+4201 Via Marina,4201 Via Marina 90292 Marina del Rey,33.9779,-118.4525
+6200 W 3rd St,6200 W 3rd St 90036 Los Angeles,34.0699,-118.3492
+4000 Ellmar Oaks Dr,4000 Ellmar Oaks Dr 95136 San Jose,37.2685,-121.849
+5880 Fair Isle Dr,5880 Fair Isle Dr 92507 Riverside,33.9761,-117.3389
+34588 11th St,34588 11th St 94587 Union City,37.5895,-122.0497
+2101-2175 Kettner Blvd,2101-2175 Kettner Blvd 92101 San Diego,32.7185,-117.1593
+868 S 5th St,868 S 5th St 95112 San Jose,37.3476,-121.887
+1171 E Baywood Dr,1171 E Baywood Dr 92881 Corona,33.8241,-117.5198
+501 W Bobier Dr,501 W Bobier Dr 92083 Vista,33.1978,-117.2482
+3325 S Canfield Ave,3325 S Canfield Ave 90034 Los Angeles,34.029,-118.4005
+680 Indiana St,680 Indiana St 94107 San Francisco,37.7621,-122.3971
+16301 Butterfield Ranch Rd,16301 Butterfield Ranch Rd 91709 Chino Hills,33.9797,-117.7308
+5550 Grosvenor Blvd,5550 Grosvenor Blvd 90066 Los Angeles,34.003,-118.4298
+11622 Aviation Blvd,11622 Aviation Blvd 90304 Inglewood,33.9379,-118.3586
+1500 N California Blvd,1500 N California Blvd 94596 Walnut Creek,37.9053,-122.0549
+6775 Golden Gate Dr,6775 Golden Gate Dr 94568 Dublin,37.7166,-121.9226
+26600 Oso Pky,26600 Oso Pky 92691 Mission Viejo,33.6128,-117.6622
+8725 Ariva Ct,8725 Ariva Ct 92123 San Diego,32.7973,-117.1392
+77 N Almaden Blvd,77 N Almaden Blvd 95110 San Jose,37.3391,-121.9016
+21021 Erwin St,21021 Erwin St 91367 Woodland Hills,34.1767,-118.6159
+1040 Glendon Ave,1040 Glendon Ave 90024 Los Angeles,34.0637,-118.4408
+2690 3rd St,2690 3rd St 94107 San Francisco,37.7621,-122.3971
+8604 E Whitewater Dr,8604 E Whitewater Dr 92808 Anaheim,33.8579,-117.7513
+1020 Jennings Ave,1020 Jennings Ave 95401 Santa Rosa,38.4432,-122.7547
+19700 Vallco Pky,19700 Vallco Pky 95014 Cupertino,37.318,-122.0449
+232 E 2nd St,232 E 2nd St 90012 Los Angeles,34.0614,-118.2385
+1200 S Grand Ave,1200 S Grand Ave 90015 Los Angeles,34.0434,-118.2716
+400-505 Garden St,400-505 Garden St 95691 West Sacramento,38.5673,-121.5516
+16761 Viewpoint Ln,16761 Viewpoint Ln 92647 Huntington Beach,33.721,-118.0033
+13151 Yorba Ave,13151 Yorba Ave 91710 Chino,34.0125,-117.6844
+1261 Ryan Ln,1261 Ryan Ln 92882 Corona,33.8419,-117.6043
+5775 Riverside Dr,5775 Riverside Dr 91710 Chino,34.0125,-117.6844
+1265 E 9th St,1265 E 9th St 91786 Upland,34.1144,-117.6583
+299 Franklin St,299 Franklin St 94063 Redwood City,,
+950 E Del Amo Blvd,950 E Del Amo Blvd 90746 Carson,33.8584,-118.2554
+25550 River Bend Dr,25550 River Bend Dr 92887 Yorba Linda,33.8841,-117.7304
+6242 Warner Ave,6242 Warner Ave 92647 Huntington Beach,33.721,-118.0033
+3400 S Main St,3400 S Main St 92707 Santa Ana,33.7086,-117.8701
+7600 Ambergate Pl,7600 Ambergate Pl 92504 Riverside,33.9315,-117.4119
+451 Wellesley Dr,451 Wellesley Dr 92879 Corona,33.8797,-117.5354
+22294 City Center Dr,22294 City Center Dr 94541 Hayward,37.674,-122.0894
+15101 Fairfield Ranch Rd,15101 Fairfield Ranch Rd 91709 Chino,33.9797,-117.7308
+1400 Barton Rd,1400 Barton Rd 92373 Redlands,34.0397,-117.1804
+350 Sharon Park Dr,350 Sharon Park Dr 94025 Menlo Park,37.4396,-122.1864
+3711 19th Ave,3711 19th Ave 94132 San Francisco,37.7211,-122.4754
+2020 Kittredge St,2020 Kittredge St 94704 Berkeley,37.8664,-122.257
+16675 Slate Dr,16675 Slate Dr 91709 Chino Hills,33.9797,-117.7308
+900 S Figueroa St,900 S Figueroa St 90015 Los Angeles,34.0434,-118.2716
+923 Folsom St,923 Folsom St 94107 San Francisco,37.7621,-122.3971
+5550 Wilshire Blvd,5550 Wilshire Blvd 90036 Los Angeles,34.0699,-118.3492
+1555 N Vine St,1555 N Vine St 90028 Los Angeles,34.1005,-118.3254
+7441-7461 Edinger Ave,7441-7461 Edinger Ave 92647 Huntington Beach,33.721,-118.0033
+936 S Olive St,936 S Olive St 90015 Los Angeles,34.0434,-118.2716
+1826 Poggi St,1826 Poggi St 94501 Alameda,37.7706,-122.2648
+250 W Santa Fe Ave,250 W Santa Fe Ave 92832 Fullerton,33.868,-117.9265
+10000 Imperial Hwy,10000 Imperial Hwy 90242 Downey,33.9218,-118.1395
+2750 Kelvin Ave,2750 Kelvin Ave 92614 Irvine,33.6829,-117.8298
+529 Stevenson St,529 Stevenson St 94103 San Francisco,37.7725,-122.4147
+1801 Jefferson St,1801 Jefferson St 94612 Oakland,37.8085,-122.2668
+510 El Cerrito Plz,510 El Cerrito Plz 94530 El Cerrito,37.9156,-122.2985
+1625 Santa Venetia St,1625 Santa Venetia St 91913 Chula Vista,32.6513,-116.9852
+22501 Chase,22501 Chase 92656 Aliso Viejo,33.5701,-117.7086
+825 E Palomar St,825 E Palomar St 91911 Chula Vista,32.6084,-117.0565
+20310 W Sorrento Ln,20310 W Sorrento Ln 91326 Porter Ranch,,
+1600 Rancho Conejo Blvd,1600 Rancho Conejo Blvd 91320 Thousand Oaks,34.1774,-118.9358
+2000 Park Ave,2000 Park Ave 90815 Long Beach,33.7939,-118.1192
+255 Via Mirabella Via,255 Via Mirabella Via 91320 Newbury Park,34.1774,-118.9358
+1025 Palo Verde Ave,1025 Palo Verde Ave 90815 Long Beach,33.7939,-118.1192
+300 Town Center Pky,300 Town Center Pky 92071 Santee,32.8486,-116.9862
+11415 Porter Ranch Dr,11415 Porter Ranch Dr 91326 Porter Ranch,,
+1100 Dennery Rd,1100 Dennery Rd 92154 San Diego,32.5753,-117.0707
+6575 Jaffe Ct,6575 Jaffe Ct 92119 San Diego,32.8036,-117.0261
+5427 Lake Murray Blvd,5427 Lake Murray Blvd 91942 La Mesa,32.7835,-117.0189
+1120 W 6th St,1120 W 6th St 90017 Los Angeles,34.0559,-118.2666
+3324 Castle Heights Ave,3324 Castle Heights Ave 90034 Los Angeles,34.029,-118.4005
+222 S Main St,222 S Main St 90012 Los Angeles,34.0614,-118.2385
+1111 Wilshire Blvd,1111 Wilshire Blvd 90017 Los Angeles,34.0559,-118.2666
+200 Greenbriar Cir,200 Greenbriar Cir 94954 Petaluma,38.2507,-122.6155
+250 North City Dr,250 North City Dr 92078 San Marcos,33.1193,-117.185
+3400 Country Dr,3400 Country Dr 94536 Fremont,37.5605,-121.9999
+6800 Embarcadero Ln,6800 Embarcadero Ln 92011 Carlsbad,33.1072,-117.2943
+1188 Mission St,1188 Mission St 94103 San Francisco,37.7725,-122.4147
+33 8th St,33 8th St 94103 San Francisco,37.7725,-122.4147
+301 Jeanette Ln,301 Jeanette Ln 92705 Santa Ana,33.754,-117.7919
+300 N Central Ave,300 N Central Ave 91203 Glendale,34.1517,-118.2636
+5513-5529 Cancha de Golf,5513-5529 Cancha de Golf 92091 Rancho Santa Fe,32.9623,-117.0462
+1600 Vine St,1600 Vine St 90028 Hollywood,34.1005,-118.3254
+2555 Main St,2555 Main St 92614 Irvine,33.6829,-117.8298
+200 N Grand Ave,200 N Grand Ave 91791 West Covina,34.0653,-117.8978
+1251 Merry Loop,1251 Merry Loop 95035 Milpitas,37.4352,-121.895
+14000 Palawan Way,14000 Palawan Way 90292 Marina del Rey,33.9779,-118.4525
+4500 Via Marina,4500 Via Marina 90292 Marina Del Rey,33.9779,-118.4525
+3455 Kearny Villa Rd,3455 Kearny Villa Rd 92123 San Diego,32.7973,-117.1392
+4600 Via Marina,4600 Via Marina 90292 Marina del Rey,33.9779,-118.4525
+13900 Marquesas Way,13900 Marquesas Way 90292 Marina del Rey,33.9779,-118.4525
+535-547 S Kingsley Dr,535-547 S Kingsley Dr 90020 Los Angeles,34.0665,-118.3022
+92 Esencia Dr,92 Esencia Dr 92694 Ladera Ranch,33.5472,-117.6238
+8201 E Blackwillow Cir,8201 E Blackwillow Cir 92808 Anaheim Hills,33.8579,-117.7513
+17621 W Pauline Ct,17621 W Pauline Ct 91387 Santa Clarita,34.4132,-118.426
+2615 E Date Palm Paseos,2615 E Date Palm Paseos 91764 Ontario,34.0763,-117.6254
+550 N Figueroa St,550 N Figueroa St 90012 Los Angeles,34.0614,-118.2385
+200 Bicentennial Cir,200 Bicentennial Cir 95826 Sacramento,38.5539,-121.3693
+18414 W Jakes Way,18414 W Jakes Way 91351 Santa Clarita,34.4262,-118.449
+909 W Temple St,909 W Temple St 90012 Los Angeles,34.0614,-118.2385
+1221 W 3rd St,1221 W 3rd St 90017 Los Angeles,34.0559,-118.2666
+18005 W Annes Cir,18005 W Annes Cir 91387 Santa Clarita,34.4132,-118.426
+27303 N Sara St,27303 N Sara St 91387 Canyon Country,34.4132,-118.426
+1026 S Broadway,1026 S Broadway 90015 Los Angeles,34.0434,-118.2716
+22219 Summit Vue Ln,22219 Summit Vue Ln 91367 Woodland Hills,34.1767,-118.6159
+138 N Beaudry Ave,138 N Beaudry Ave 90012 Los Angeles,34.0614,-118.2385
+725 S Bixel St,725 S Bixel St 90017 Los Angeles,34.0559,-118.2666
+609 St Paul Ave,609 St Paul Ave 90017 Los Angeles,34.0559,-118.2666
+100 Simplicity,100 Simplicity 92620 Irvine,33.7009,-117.7564
+25 Palatine Rd,25 Palatine Rd 92612 Irvine,33.6607,-117.8264
+5945 Linda Vista Rd,5945 Linda Vista Rd 92110 San Diego,32.7635,-117.2028
+299 N State College Blvd,299 N State College Blvd 92868 Orange,33.7875,-117.8776
+12855 Runway Rd,12855 Runway Rd 90094 Playa Vista,33.9754,-118.417
+320 Crescent Village Cir,320 Crescent Village Cir 95134 San Jose,37.4087,-121.9406
+381 Sable,381 Sable 92688 Rancho Santa Margarita,33.6512,-117.5938
+250 Brandon St,250 Brandon St 95134 San Jose,37.4087,-121.9406
+100 Grand Canal Rd,100 Grand Canal Rd 92620 Irvine,33.7009,-117.7564
+6555 Ambrosia Dr,6555 Ambrosia Dr 92124 San Diego,32.8201,-117.0986
+350 Gitano,350 Gitano 92618 Irvine,33.7074,-117.7054
+12665 Village Ln,12665 Village Ln 90094 Playa Vista,33.9754,-118.417
+5000 Capobella,5000 Capobella 92656 Aliso Viejo,33.5701,-117.7086
+3395 Michelson Dr,3395 Michelson Dr 92612 Irvine,33.6607,-117.8264
+100 Vilaggio,100 Vilaggio 92660 Newport Beach,33.6295,-117.8684
+820 W G St,820 W G St 92101 San Diego,32.7185,-117.1593
+11100 Vista Sorrento Pkwy,11100 Vista Sorrento Pkwy 92130 San Diego,32.9555,-117.2252
+1000 San Joaquin Plz,1000 San Joaquin Plz 92660 Newport Beach,33.6295,-117.8684
+29131 Spectrum,29131 Spectrum 92618 Irvine,33.7074,-117.7054
+12411 Fielding Circle Dr,12411 Fielding Circle Dr 90094 Playa Vista,33.9754,-118.417
+7725 Gateway Pky,7725 Gateway Pky 92618 Irvine,33.7074,-117.7054
+3555 Monroe St,3555 Monroe St 95051 Santa Clara,37.3483,-121.9844
+5305-5305 Toscana Way,5305-5305 Toscana Way 92122 San Diego,32.8577,-117.2115
+90 Vantis Dr,90 Vantis Dr 92656 Aliso Viejo,33.5701,-117.7086
+3500 Palmilla Dr,3500 Palmilla Dr 95134 San Jose,37.4087,-121.9406
+100 Ambazar,100 Ambazar 92614 Irvine,33.6829,-117.8298
+333 1st St,333 1st St 90740 Seal Beach,33.7602,-118.0808
+5679 Amaya Dr,5679 Amaya Dr 91942 La Mesa,32.7835,-117.0189
+10024 Paseo Montril,10024 Paseo Montril 92129 San Diego,32.9652,-117.1213
+400 Appian Way,400 Appian Way 91766 Pomona,34.0418,-117.7569
+20544 Ventura Blvd,20544 Ventura Blvd 91364 Woodland Hills,34.1557,-118.6
+1445 Treat Blvd,1445 Treat Blvd 94597 Walnut Creek,37.9182,-122.0717
+3650 Andrews Dr,3650 Andrews Dr 94588 Pleasanton,37.6873,-121.8957
+22122 Victory Blvd,22122 Victory Blvd 91367 Woodland Hills,34.1767,-118.6159
+700 S Saratoga Ave,700 S Saratoga Ave 95129 San Jose,37.3066,-122.0002
+555 Paularino Ave,555 Paularino Ave 92626 Costa Mesa,33.6801,-117.9085
+1099 Admiral Ct,1099 Admiral Ct 94066 San Bruno,37.6247,-122.429
+29128 Oak Creek Ln,29128 Oak Creek Ln 91301 Agoura Hills,34.1227,-118.7573
+7302-7400 Center Ave,7302-7400 Center Ave 92647 Huntington Beach,33.721,-118.0033
+121 E Route 66,121 E Route 66 91740 Glendora,34.1287,-117.8552
+5240 Corte Bocina St,5240 Corte Bocina St 93012 Camarillo,34.2218,-118.9866
+2000 Main St,2000 Main St 90405 Santa Monica,34.01,-118.4717
+701-465 S Breeze Hill Rd,701-465 S Breeze Hill Rd 92081 Vista,33.1644,-117.2403
+24 Union Sq,24 Union Sq 94587 Union City,37.5895,-122.0497
+1300 The Alameda,1300 The Alameda 95126 San Jose,37.3249,-121.9153
+1257 Lakeside Dr,1257 Lakeside Dr 94085 Sunnyvale,37.3886,-122.0177
+899 Morrison Park Dr,899 Morrison Park Dr 95126 San Jose,37.3249,-121.9153
+5200 Iron Horse Pky,5200 Iron Horse Pky 94568 Dublin,37.7166,-121.9226
+7084-7148 Friars Rd,7084-7148 Friars Rd 92108 San Diego,32.7783,-117.1335
+2777 Alton Pky,2777 Alton Pky 92606 Irvine,33.6951,-117.8224
+14015 W Tahiti Way,14015 W Tahiti Way 90292 Marina Del Rey,33.9779,-118.4525
+800 Indiana St,800 Indiana St 94107 San Francisco,37.7621,-122.3971
+3831 N Orchid Ln,3831 N Orchid Ln 91302 Calabasas,34.1419,-118.6641
+1000 Lupine,1000 Lupine 92630 Lake Forest,33.6437,-117.6868
+10979 Bluffside Dr,10979 Bluffside Dr 91604 Studio City,,
+1571 Flynn Rd,1571 Flynn Rd 93012 Camarillo,34.2218,-118.9866
+350 S San Fernando Blvd,350 S San Fernando Blvd 91502 Burbank,34.1745,-118.3059
+3883 Ingraham St,3883 Ingraham St 92109 San Diego,32.7969,-117.2405
+255 King St,255 King St 94107 San Francisco,37.7621,-122.3971
+55 Ninth St,55 Ninth St 94103 San Francisco,37.7725,-122.4147
+1765-1765 Santa Ana Ave,1765-1765 Santa Ana Ave 92627 Costa Mesa,33.6483,-117.9155
+401 N Pass Ave,401 N Pass Ave 91505 Burbank,34.169,-118.3442
+3600 Barham Blvd,3600 Barham Blvd 90068 Hollywood,34.1156,-118.3305
+3535 Banbury Dr,3535 Banbury Dr 92505 Riverside,33.9228,-117.4867
+22751 EL PRADO,22751 EL PRADO 92688 Rancho Santa Margarita,33.6512,-117.5938
+675 Bradford St,675 Bradford St 94063 Redwood City,,
+401 Briar Ridge Drive,401 Briar Ridge Drive 95123 San Jose,37.2458,-121.8306
+5758 Las Virgenes Rd,5758 Las Virgenes Rd 91302 Calabasas,34.1419,-118.6641
+1007 5th Ave,1007 5th Ave 92101 San Diego,32.7185,-117.1593
+348 S Hauser Blvd,348 S Hauser Blvd 90036 Los Angeles,34.0699,-118.3492
+5555 W 6th St,5555 W 6th St 90036 Los Angeles,34.0699,-118.3492
+630 S Masselin Ave,630 S Masselin Ave 90036 Los Angeles,34.0699,-118.3492
+4392 W Point Loma Blvd,4392 W Point Loma Blvd 92107 San Diego,32.7425,-117.2433
+6100 Monterey Hwy,6100 Monterey Hwy 95138 San Jose,37.2602,-121.7709
+3183 Wilshire Blvd,3183 Wilshire Blvd 90010 Los Angeles,34.0606,-118.3027
+3400 Avenue of the Arts,3400 Avenue of the Arts 92626 Costa Mesa,33.6801,-117.9085
+203 Laurie Meadows Dr,203 Laurie Meadows Dr 94403 San Mateo,37.5395,-122.2998
+7660 Beverly Blvd,7660 Beverly Blvd 90036 Los Angeles,34.0699,-118.3492
+940 S Western Ave,940 S Western Ave 90006 Los Angeles,34.0493,-118.2917
+195-205 Tamal Vista Blvd,195-205 Tamal Vista Blvd 94925 Corte Madera,37.9223,-122.5132
+18880 Douglas,18880 Douglas 92612 Irvine,33.6607,-117.8264
+6401 Warner Ave,6401 Warner Ave 92647 Huntington Beach,33.721,-118.0033
+377 Santana Row,377 Santana Row 95128 San Jose,37.3163,-121.9356
+1801 Shattuck Ave,1801 Shattuck Ave 94709 Berkeley,37.8784,-122.2655
+75 W Walnut St,75 W Walnut St 91103 Pasadena,34.1669,-118.1551
+88 Howard St,88 Howard St 94105 San Francisco,37.7864,-122.3892
+255 W 5th St,255 W 5th St 90731 San Pedro,33.7339,-118.2914
+680 Mission St,680 Mission St 94105 San Francisco,37.7864,-122.3892
+555 San Antonio Rd,555 San Antonio Rd 94040 Mountain View,37.3855,-122.088
+2200 Colorado Ave,2200 Colorado Ave 90404 Santa Monica,34.0268,-118.4733
+1844 Market St,1844 Market St 94102 San Francisco,37.7813,-122.4167
+388 Santana Row,388 Santana Row 95128 San Jose,37.3163,-121.9356
+6150 Canoga Ave,6150 Canoga Ave 91367 Woodland Hills,34.1767,-118.6159
+3099 W Chapman Ave,3099 W Chapman Ave 92868 Orange,33.7875,-117.8776
+5901-5921 Center Dr,5901-5921 Center Dr 90045 Los Angeles,33.9631,-118.3941
+2915 Los Feliz Blvd,2915 Los Feliz Blvd 90039 Los Angeles,34.1121,-118.2594
+12640 Memorial Way,12640 Memorial Way 92553 Moreno Valley,33.9157,-117.2351
+1500 7th St,1500 7th St 95814 Sacramento,38.5804,-121.4922
+211 W Rincon St,211 W Rincon St 92880 Corona,33.9208,-117.6096
+3040 Bernal Ave,3040 Bernal Ave 94566 Pleasanton,37.6658,-121.8755
+1500 W Pacific Coast Hwy,1500 W Pacific Coast Hwy 90744 Wilmington,33.7855,-118.2645
+9901 Washington Blvd,9901 Washington Blvd 90232 Culver City,,
+28850 Dixon St,28850 Dixon St 94544 Hayward,37.6374,-122.067
+125 Baker St E,125 Baker St E 92626 Costa Mesa,33.6801,-117.9085
+321 N Orange St,321 N Orange St 91203 Glendale,34.1517,-118.2636
+5880 3rd St,5880 3rd St 94124 San Francisco,37.7309,-122.3886
+18179 W Terra Verde Pl,18179 W Terra Verde Pl 91387 Santa Clarita,34.4132,-118.426
+1045 Armorlite Dr,1045 Armorlite Dr 92069 San Marcos,33.1444,-117.1697
+1714 N McCadden Pl,1714 N McCadden Pl 90028 Hollywood,34.1005,-118.3254
+4242 Via Marina,4242 Via Marina 90292 Marina del Rey,33.9779,-118.4525
+10000 Santa Monica Blvd,10000 Santa Monica Blvd 90067 Los Angeles,34.0551,-118.4095
+2816 Cielo Circulo,2816 Cielo Circulo 91915 Chula Vista,32.6315,-116.9408
+45 Lansing St,45 Lansing St 94105 San Francisco,37.7864,-122.3892
+1401 Market St,1401 Market St 94103 San Francisco,37.7725,-122.4147
+3639 Haven Ave,3639 Haven Ave 94025 Menlo Park,37.4396,-122.1864
+17321 Murphy Ave,17321 Murphy Ave 92614 Irvine,33.6829,-117.8298
+3888 Artist Walk Commons,3888 Artist Walk Commons 94536 Fremont,37.5605,-121.9999
+885 Woodside Rd,885 Woodside Rd 94061 Redwood City,,
+26033 Cape Dr,26033 Cape Dr 92677 Laguna Niguel,33.5145,-117.7084
+251 Orangefair Ave,251 Orangefair Ave 92832 Fullerton,33.868,-117.9265
+E Waddell Dr,E Waddell Dr 94089 Sunnyvale,37.3983,-122.0006
+2024 Durant Ave,2024 Durant Ave 94704 Berkeley,37.8664,-122.257
+300 14th St,300 14th St 92101 San Diego,32.7185,-117.1593
+1515 2nd St,1515 2nd St 92118 Coronado,32.6807,-117.1698
+1810 State St,1810 State St 92101 San Diego,32.7185,-117.1593
+738 Wilcox Ave,738 Wilcox Ave 90038 Los Angeles,34.0898,-118.3215
+3130 Occidental Dr,3130 Occidental Dr 95826 Sacramento,38.5539,-121.3693
+1519 6th St,1519 6th St 90401 Santa Monica,34.0176,-118.4907
+4440 Twain Ave,4440 Twain Ave 92120 San Diego,32.7958,-117.0707
+333 Park Plaza Dr,333 Park Plaza Dr 94015 Daly City,,
+1100 Synergy,1100 Synergy 92614 Irvine,33.6829,-117.8298
+750 S Garland Ave,750 S Garland Ave 90017 Los Angeles,34.0559,-118.2666
+700 Gibson Dr,700 Gibson Dr 95678 Roseville,38.7609,-121.2867
+299 Fremont St,299 Fremont St 94105 San Francisco,37.7864,-122.3892
+421 Bernard St,421 Bernard St 92627 Costa Mesa,33.6483,-117.9155
+100 Esplanade Ave,100 Esplanade Ave 94044 Pacifica,37.6196,-122.4816
+3274 W Ashlan Ave,3274 W Ashlan Ave 93722 Fresno,36.7918,-119.8801
+6160 Promontory Ln,6160 Promontory Ln 93003 Ventura,34.2846,-119.2222
+100 E MacArthur Blvd,100 E MacArthur Blvd 92707 Santa Ana,33.7086,-117.8701
+19608 Pruneridge Ave,19608 Pruneridge Ave 95014 Cupertino,37.318,-122.0449
+1000 Pheasant Dr,1000 Pheasant Dr 94565 Pittsburg,38.0031,-121.9172
+2501 Hurley Way,2501 Hurley Way 95825 Sacramento,38.5892,-121.4057
+686 E Union St,686 E Union St 91101 Pasadena,34.1468,-118.1391
+4455 Casa Grande Cir,4455 Casa Grande Cir 90630 Cypress,33.8181,-118.0357
+1481 Exposition Blvd,1481 Exposition Blvd 95815 Sacramento,38.6093,-121.4443
+1230 S Olive St,1230 S Olive St 90015 Los Angeles,34.0434,-118.2716
+1331 E Katella Ave,1331 E Katella Ave 92805 Anaheim,33.8359,-117.9086
+1725 S Auburn Way,1725 S Auburn Way 92805 Anaheim,33.8359,-117.9086
+1110 S 5th Ave,1110 S 5th Ave 91016 Monrovia,34.144,-118.0014
+341 Mike Loza Dr,341 Mike Loza Dr 93012 Camarillo,34.2218,-118.9866
+1781 S Campton Ave,1781 S Campton Ave 92805 Anaheim,33.8359,-117.9086
+1222 Harrison St,1222 Harrison St 94103 San Francisco,37.7725,-122.4147
+951 S Beach Blvd,951 S Beach Blvd 90631 La Habra,33.9331,-117.9494
+887 Saint Charles Dr,887 Saint Charles Dr 91360 Thousand Oaks,34.2092,-118.8739
+55 Triton Park Ln,55 Triton Park Ln 94404 Foster City,39.8453,33.5064
+601-645 Sea Vale St,601-645 Sea Vale St 91910 Chula Vista,32.6371,-117.0676
+8105 N Lake Dr,8105 N Lake Dr 94568 Dublin,37.7166,-121.9226
+8583 Aero Dr,8583 Aero Dr 92123 San Diego,32.7973,-117.1392
+6635 Sylvan Rd,6635 Sylvan Rd 95610 Citrus Heights,38.6946,-121.2692
+10100 Mary Ave,10100 Mary Ave 95014 Cupertino,37.318,-122.0449
+2724 N Bristol St,2724 N Bristol St 92706 Santa Ana,33.7691,-117.8855
+5800 Hamilton St,5800 Hamilton St 95842 Sacramento,38.6865,-121.3494
+2900 E Lincoln Ave,2900 E Lincoln Ave 92806 Anaheim,33.8356,-117.8681
+5807 Topanga Canyon Blvd,5807 Topanga Canyon Blvd 91367 Woodland Hills,34.1767,-118.6159
+12963 Moreno Beach Dr,12963 Moreno Beach Dr 92555 Moreno Valley,33.9377,-117.1851
+3640 Wilshire Blvd,3640 Wilshire Blvd 90010 Los Angeles,34.0606,-118.3027
+755 E Capitol Ave,755 E Capitol Ave 95035 Milpitas,37.4352,-121.895
+1011 Rosemarie Ln,1011 Rosemarie Ln 95207 Stockton,38.0024,-121.3238
+1331 W 7th St,1331 W 7th St 90017 Los Angeles,34.0559,-118.2666
+1050 Summerside Dr,1050 Summerside Dr 95122 San Jose,37.3293,-121.8339
+38800 Hastings St,38800 Hastings St 94536 Fremont,37.5605,-121.9999
+15920 Pomona Rincon Rd,15920 Pomona Rincon Rd 91709 Chino Hills,33.9797,-117.7308
+5101 Andrea Blvd,5101 Andrea Blvd 95842 Sacramento,38.6865,-121.3494
+1501 Golf Club Dr,1501 Golf Club Dr 91784 Upland,34.141,-117.6581
+555 E Fruitvale Ave,555 E Fruitvale Ave 92543 Hemet,33.7416,-116.973
+9085 Judicial Dr,9085 Judicial Dr 92122 San Diego,32.8577,-117.2115
+220 San Vicente Blvd,220 San Vicente Blvd 90402 Santa Monica,34.0349,-118.503
+8720 Costa Verde Blvd,8720 Costa Verde Blvd 92122 San Diego,32.8577,-117.2115
+11152 Wallingsford Rd,11152 Wallingsford Rd 90720 Los Alamitos,33.7956,-118.0648
+13999 Marquesas Way,13999 Marquesas Way 90292 Marina del Rey,33.9779,-118.4525
+154 N Palmetto Ave,154 N Palmetto Ave 91762 Ontario,34.0584,-117.6665
+7200 Pepperwood Knoll Ln,7200 Pepperwood Knoll Ln 95842 Sacramento,38.6865,-121.3494
+1100 Roseville Pky,1100 Roseville Pky 95678 Roseville,38.7609,-121.2867
+2015 Hancock St,2015 Hancock St 92110 San Diego,32.7635,-117.2028
+5959 Van Alstine Ave,5959 Van Alstine Ave 95608 Carmichael,38.6284,-121.3287
+1942 Deerpark Dr,1942 Deerpark Dr 92831 Fullerton,33.8873,-117.8946
+7300 Parkwood Cir,7300 Parkwood Cir 94568 Dublin,37.7166,-121.9226
+10700 Wilshire Blvd,10700 Wilshire Blvd 90024 Los Angeles,34.0637,-118.4408
+888 S Olive St,888 S Olive St 90014 Los Angeles,34.0443,-118.2509
+8775 Costa Verde Blvd,8775 Costa Verde Blvd 92122 San Diego,32.8577,-117.2115
+25701 Van Leuven Ave,25701 Van Leuven Ave 92354 Loma Linda,34.0528,-117.2513
+6016 Sunrise Vista Dr,6016 Sunrise Vista Dr 95610 Citrus Heights,38.6946,-121.2692
+1000 Escalon Ave,1000 Escalon Ave 94085 Sunnyvale,37.3886,-122.0177
+256-268 Erbes Rd,256-268 Erbes Rd 91362 Thousand Oaks,34.1948,-118.8232
+1056 E Philadelphia St,1056 E Philadelphia St 91761 Ontario,34.0316,-117.6187
+5351 47th Ave,5351 47th Ave 95824 Sacramento,38.5178,-121.4419
+5050 Hacienda Dr,5050 Hacienda Dr 94568 Dublin,37.7166,-121.9226
+4262 Figarden Dr,4262 Figarden Dr 93722 Fresno,36.7918,-119.8801
+6801 San Tomas Dr,6801 San Tomas Dr 95621 Citrus Heights,38.6952,-121.3075
+600 Hosking Ave,600 Hosking Ave 93307 Bakersfield,35.3275,-118.9839
+55-75 S 6th St,55-75 S 6th St 95112 San Jose,37.3476,-121.887
+1168 S Barrington Ave,1168 S Barrington Ave 90049 Los Angeles,34.066,-118.474
+1170 Murchison Ave,1170 Murchison Ave 91768 Pomona,34.0662,-117.7763
+670-684 King St,670-684 King St 94107 San Francisco,37.7621,-122.3971
+1010 Wilshire Blvd,1010 Wilshire Blvd 90017 Los Angeles,34.0559,-118.2666
+1540 W Ball Rd,1540 W Ball Rd 92802 Anaheim,33.8085,-117.9228
+2395 Cardinal Dr,2395 Cardinal Dr 92123 San Diego,32.7973,-117.1392
+1465 65th St,1465 65th St 94608 Emeryville,37.8365,-122.2804
+5050-5110 Walnut Ave,5050-5110 Walnut Ave 95841 Sacramento,38.6627,-121.3406
+515 John Muir Dr,515 John Muir Dr 94132 San Francisco,37.7211,-122.4754
+2450 Seamist Dr,2450 Seamist Dr 95833 Sacramento,38.6157,-121.5053
+4300 The Woods Dr,4300 The Woods Dr 95136 San Jose,37.2685,-121.849
+710 N El Centro Ave,710 N El Centro Ave 90038 Los Angeles,34.0898,-118.3215
+1157 S Bundy Dr,1157 S Bundy Dr 90049 Los Angeles,34.066,-118.474
+30001 Golden Lantern,30001 Golden Lantern 92677 Laguna Niguel,33.5145,-117.7084
+11615 E Firestone Blvd,11615 E Firestone Blvd 90650 Norwalk,33.9056,-118.0818
+1318 2nd St,1318 2nd St 90401 Santa Monica,34.0176,-118.4907
+418 N Main St,418 N Main St 92880 Corona,33.9208,-117.6096
+5200 Chicago Ave,5200 Chicago Ave 92507 Riverside,33.9761,-117.3389
+718 Old San Francisco Rd,718 Old San Francisco Rd 94086 Sunnyvale,37.3764,-122.0238
+12851 Haster St,12851 Haster St 92840 Garden Grove,33.7869,-117.9273
+500 Roseville Pky,500 Roseville Pky 95747 Roseville,38.7703,-121.3372
+5601 N Paramount Blvd,5601 N Paramount Blvd 90805 Long Beach,33.8635,-118.1801
+603 S Rampart Blvd,603 S Rampart Blvd 90057 Los Angeles,34.0622,-118.2763
+25590 Prospect Ave,25590 Prospect Ave 92354 Loma Linda,34.0528,-117.2513
+4091 Redwood Ave,4091 Redwood Ave 90066 Los Angeles,34.003,-118.4298
+422 S Lake St,422 S Lake St 90057 Los Angeles,34.0622,-118.2763
+1001 S Olive St,1001 S Olive St 90015 Los Angeles,34.0434,-118.2716
+2201-2211 E Orangewood Ave,2201-2211 E Orangewood Ave 92806 Anaheim,33.8356,-117.8681
+1901 E 1st St,1901 E 1st St 92705 Santa Ana,33.754,-117.7919
+9951 Holder St,9951 Holder St 90630 Cypress,33.8181,-118.0357
+327 N Boylston St,327 N Boylston St 90012 Los Angeles,34.0614,-118.2385
+3435 Routier Rd,3435 Routier Rd 95827 Sacramento,38.5662,-121.3286
+1350 Milburn Ave,1350 Milburn Ave 92373 Redlands,34.0397,-117.1804
+3939 Monroe Ave,3939 Monroe Ave 94536 Fremont,37.5605,-121.9999
+2100 Sullivan,2100 Sullivan 92614 Irvine,33.6829,-117.8298
+3507 S Bascom Ave,3507 S Bascom Ave 95008 Campbell,37.2803,-121.9539
+601 S Twin Oaks Valley Rd,601 S Twin Oaks Valley Rd 92078 San Marcos,33.1193,-117.185
+2927 Marconi Ave,2927 Marconi Ave 95821 Sacramento,38.6239,-121.3837
+1317 F St,1317 F St 95814 Sacramento,38.5804,-121.4922
+1515 Wilshire Blvd,1515 Wilshire Blvd 90017 Los Angeles,34.0559,-118.2666
+7311 Huntington Square Ln,7311 Huntington Square Ln 95621 Citrus Heights,38.6952,-121.3075
+950 S Fairfax Ave,950 S Fairfax Ave 90036 Los Angeles,34.0699,-118.3492
+250 W Central Ave,250 W Central Ave 92821 Brea,33.9291,-117.8845
+411 S Main St,411 S Main St 90013 Los Angeles,34.0448,-118.2434
+2330 N Cahuenga Blvd,2330 N Cahuenga Blvd 90068 Los Angeles,34.1156,-118.3305
+2867 Sunset Pl,2867 Sunset Pl 90005 Los Angeles,34.0585,-118.3012
+Carmel Valley Rd,Carmel Valley Rd 92130 San Diego,32.9555,-117.2252
+727 Wilcox Ave,727 Wilcox Ave 90038 Los Angeles,34.0898,-118.3215
+1590 Southwest Expy,1590 Southwest Expy 95126 San Jose,37.3249,-121.9153
+5122 E Olive Ave,5122 E Olive Ave 93727 Fresno,36.7528,-119.7061
+21661 Brookhurst St,21661 Brookhurst St 92646 Huntington Beach,33.6654,-117.9686
+1020 12th St,1020 12th St 95814 Sacramento,38.5804,-121.4922
+2600 Gage,2600 Gage 92008 Carlsbad,33.1602,-117.325
+5600 Orangethorpe Ave,5600 Orangethorpe Ave 90623 La Palma,33.8491,-118.0398
+4951 Cherry Ave,4951 Cherry Ave 95118 San Jose,37.2568,-121.8896
+110 Dias Cir,110 Dias Cir 94565 Pittsburg,38.0031,-121.9172
+3175 Data Dr,3175 Data Dr 95670 Rancho Cordova,38.6072,-121.2761
+2000 W Glenoaks Ave,2000 W Glenoaks Ave 92801 Anaheim,33.8428,-117.9546
+6231 Burich Ave,6231 Burich Ave 95610 Citrus Heights,38.6946,-121.2692
+9800 Mira Lee Way,9800 Mira Lee Way 92126 San Diego,32.9161,-117.1402
+500 S Los Robles Ave,500 S Los Robles Ave 91101 Pasadena,34.1468,-118.1391
+221 Smilax Rd,221 Smilax Rd 92083 Vista,33.1978,-117.2482
+101 Hogan Ct,101 Hogan Ct 94598 Walnut Creek,37.9194,-122.0259
+3351 Duckhorn Dr,3351 Duckhorn Dr 95834 Sacramento,38.6383,-121.5072
+1038 on 2nd St,1038 on 2nd St 94549 Lafayette,37.8961,-122.1119
+7121 Woodley Ave,7121 Woodley Ave 91406 Van Nuys,34.2006,-118.4868
+15100 Moran St,15100 Moran St 92683 Westminster,33.7524,-117.9939
+888 Hilgard Ave,888 Hilgard Ave 90024 Los Angeles,34.0637,-118.4408
+385 S Manchester Ave,385 S Manchester Ave 92868 Orange,33.7875,-117.8776
+3838 Dunn Dr,3838 Dunn Dr 90232 Culver City,,
+2627 E La Palma Ave,2627 E La Palma Ave 92806 Anaheim,33.8356,-117.8681
+800 St Charles Dr,800 St Charles Dr 91360 Thousand Oaks,34.2092,-118.8739
+649 S Ridgeley Dr,649 S Ridgeley Dr 90036 Los Angeles,34.0699,-118.3492
+10250 W Country Club Dr,10250 W Country Club Dr 91752 Jurupa Valley,,
+450 E Wilbur Rd,450 E Wilbur Rd 91360 Thousand Oaks,34.2092,-118.8739
+10757 Lemon Ave,10757 Lemon Ave 91737 Rancho Cucamonga,34.1467,-117.5803
+23511 Aliso Creek Rd,23511 Aliso Creek Rd 92656 Laguna Hills,33.5701,-117.7086
+8500 Burton Way,8500 Burton Way 90048 Los Angeles,34.0737,-118.372
+480 Potrero Ave,480 Potrero Ave 94110 San Francisco,37.7509,-122.4153
+1050 E Foothill Blvd,1050 E Foothill Blvd 93405 San Luis Obispo,35.2901,-120.6817
+225 Union Ave,225 Union Ave 95008 Campbell,37.2803,-121.9539
+100 S Highland Ave,100 S Highland Ave 92870 Placentia,33.8744,-117.8543
+2130 W Crescent Ave,2130 W Crescent Ave 92801 Anaheim,33.8428,-117.9546
+321 E Fairview Ave,321 E Fairview Ave 91207 Glendale,34.1649,-118.2451
+1651 Riverside Ave,1651 Riverside Ave 92376 Rialto,34.1132,-117.3771
+2000 Villa Dr,2000 Villa Dr 94565 Pittsburg,38.0031,-121.9172
+300 Crescent Dr,300 Crescent Dr 95688 Vacaville,38.3847,-121.9887
+7655-7689 Palmilla Dr,7655-7689 Palmilla Dr 92122 San Diego,32.8577,-117.2115
+13900 Tahiti Way,13900 Tahiti Way 90292 Marina del Rey,33.9779,-118.4525
+620 Iris Ave,620 Iris Ave 94086 Sunnyvale,37.3764,-122.0238
+12350 Del Amo Blvd,12350 Del Amo Blvd 90715 Lakewood,33.8405,-118.0767
+5350 N Brawley Ave,5350 N Brawley Ave 93722 Fresno,36.7918,-119.8801
+2908 Willowbrook Ct,2908 Willowbrook Ct 95348 Merced,37.3302,-120.508
+24905 Magic Mountain Pky,24905 Magic Mountain Pky 91355 Valencia,34.3985,-118.5535
+2116-2120 Allston Way,2116-2120 Allston Way 94704 Berkeley,37.8664,-122.257
+12629 El Camino Real,12629 El Camino Real 92130 San Diego,32.9555,-117.2252
+1250-1251 Santa Cora Ave,1250-1251 Santa Cora Ave 91913 Chula Vista,32.6513,-116.9852
+440 Dixon Landing Rd,440 Dixon Landing Rd 95035 Milpitas,37.4352,-121.895
+699 14th St,699 14th St 92101 San Diego,32.7185,-117.1593
+3055 La Selva Ln,3055 La Selva Ln 94403 San Mateo,37.5395,-122.2998
+730-730 Agnew Rd,730-730 Agnew Rd 95054 Santa Clara,37.3924,-121.9623
+1045 Coleman Rd,1045 Coleman Rd 95123 San Jose,37.2458,-121.8306
+40777 High St,40777 High St 94538 Fremont,37.5308,-121.9712
+15555 Huntington Village Ln,15555 Huntington Village Ln 92647 Huntington Beach,33.721,-118.0033
+28500 Mission Blvd,28500 Mission Blvd 94544 Hayward,37.6374,-122.067
+600 N Harbor Blvd,600 N Harbor Blvd 90631 La Habra,33.9331,-117.9494
+6830 Walerga Rd,6830 Walerga Rd 95842 Sacramento,38.6865,-121.3494
+360-360 S Idaho St,360-360 S Idaho St 90631 La Habra,33.9331,-117.9494
+4905 Castana Ave,4905 Castana Ave 90712 Lakewood,33.8512,-118.1457
+605 Orchard Ave,605 Orchard Ave 94544 Hayward,37.6374,-122.067
+18700 Yorba Linda Blvd,18700 Yorba Linda Blvd 92886 Yorba Linda,33.9058,-117.7865
+11102 Caminito Alvarez,11102 Caminito Alvarez 92126 San Diego,32.9161,-117.1402
+841-855 Regulo Pl,841-855 Regulo Pl 91910 Chula Vista,32.6371,-117.0676
+1255 E Citrus Ave,1255 E Citrus Ave 92374 Redlands,34.065,-117.1672
+14500 McNab Ave,14500 McNab Ave 90706 Bellflower,33.8867,-118.1265
+5926 Bixby Village Dr,5926 Bixby Village Dr 90803 Long Beach,33.7619,-118.1341
+700 S Myrtle Ave,700 S Myrtle Ave 91016 Monrovia,34.144,-118.0014
+736 Center Dr,736 Center Dr 92069 San Marcos,33.1444,-117.1697
+960 Saint Francis Blvd,960 Saint Francis Blvd 94015 Daly City,,
+33 San Pablo Ave,33 San Pablo Ave 94903 San Rafael,38.0339,-122.5855
+6233 Dougherty Rd,6233 Dougherty Rd 94568 Dublin,37.7166,-121.9226
+1555 Galindo St,1555 Galindo St 94520 Concord,37.9823,-122.0362
+4800 Kokomo Dr,4800 Kokomo Dr 95835 Sacramento,38.6626,-121.4834
+600 S Curson Ave,600 S Curson Ave 90036 Los Angeles,34.0699,-118.3492
+5550 Genesee Ct,5550 Genesee Ct 92111 San Diego,32.7972,-117.1708
+788 Harrison St,788 Harrison St 94107 San Francisco,37.7621,-122.3971
+3992 Stoneridge Dr,3992 Stoneridge Dr 94588 Pleasanton,37.6873,-121.8957
+225 Coggins Dr,225 Coggins Dr 94523 Pleasant Hill,37.954,-122.0737
+2905 S Cabrillo Ave,2905 S Cabrillo Ave 90731 San Pedro,33.7339,-118.2914
+1987 Ridgegate Ln,1987 Ridgegate Ln 93065 Simi Valley,34.2656,-118.7653
+30041 Tessier,30041 Tessier 92677 Laguna Niguel,33.5145,-117.7084
+11711 Collett Ave,11711 Collett Ave 92505 Riverside,33.9228,-117.4867
+5100 Vista Grande Dr,5100 Vista Grande Dr 94531 Antioch,37.9658,-121.7758
+1951 Telegraph Ave,1951 Telegraph Ave 94612 Oakland,37.8085,-122.2668
+1801 Eureka Rd,1801 Eureka Rd 95661 Roseville,38.7346,-121.234
+28160 McBean Pky,28160 McBean Pky 91354 Valencia,34.4466,-118.5374
+2 Enterprise,2 Enterprise 92656 Aliso Viejo,33.5701,-117.7086
+2421 Foothill Blvd,2421 Foothill Blvd 91750 La Verne,34.1159,-117.7708
+350 Budd Ave,350 Budd Ave 95008 Campbell,37.2803,-121.9539
+15454 Sherman Way,15454 Sherman Way 91406 Van Nuys,34.2006,-118.4868
+50 Eastshore,50 Eastshore 92604 Irvine,33.6899,-117.7868
+1901 Cassia Rd,1901 Cassia Rd 92011 Carlsbad,33.1072,-117.2943
+6975 Golfcrest Dr,6975 Golfcrest Dr 92119 San Diego,32.8036,-117.0261
+32762 Pointe Sutton,32762 Pointe Sutton 92629 Dana Point,33.4743,-117.6964
+1 Plaza View Ln,1 Plaza View Ln 94404 Foster City,36.9748,37.4987
+2200 Monroe St,2200 Monroe St 95050 Santa Clara,37.3492,-121.953
+3303 S Archibald Ave,3303 S Archibald Ave 91761 Ontario,34.0316,-117.6187
+939 S Hill St,939 S Hill St 90015 Los Angeles,34.0434,-118.2716
+1555 Riviera Ave,1555 Riviera Ave 94596 Walnut Creek,37.9053,-122.0549
+1037 N Archibald Ave,1037 N Archibald Ave 91764 Ontario,34.0763,-117.6254
+6233 S La Brea Ln,6233 S La Brea Ln 90056 Los Angeles,33.9853,-118.3707
+10201 Lindley Ave,10201 Lindley Ave 91325 Northridge,34.2353,-118.5188
+440 W Gladstone St,440 W Gladstone St 91740 Glendora,34.1287,-117.8552
+13622 Chadron Ave,13622 Chadron Ave 90250 Hawthorne,33.9143,-118.3493
+1020 S Grand Ave,1020 S Grand Ave 91765 Diamond Bar,34.0066,-117.8098
+11047 Otsego St,11047 Otsego St 91601 North Hollywood,34.1687,-118.3713
+2345 Newport Blvd,2345 Newport Blvd 92627 Costa Mesa,33.6483,-117.9155
+11853 Kling St,11853 Kling St 91607 Valley Village,34.1672,-118.3989
+5420 Yolanda Ave,5420 Yolanda Ave 91356 Tarzana,34.1671,-118.5414
+20455 Sorrento Ln,20455 Sorrento Ln 91326 Porter Ranch,,
+850 Village Dr,850 Village Dr 92078 San Marcos,33.1193,-117.185
+1486 Broadway,1486 Broadway 91911 Chula Vista,32.6084,-117.0565
+2300 Rising Glen Way,2300 Rising Glen Way 92008 Carlsbad,33.1602,-117.325
+1000 Folsom Ranch Dr,1000 Folsom Ranch Dr 95630 Folsom,38.6709,-121.1529
+27550 Hillcrest,27550 Hillcrest 92691 Mission Viejo,33.6128,-117.6622
+"730 Via de Luna, Via","730 Via de Luna, Via 92882 Corona",33.8419,-117.6043
+2400 Pole Line Rd,2400 Pole Line Rd 95618 Davis,38.5462,-121.6676
+4001 S Watt Ave,4001 S Watt Ave 95826 Sacramento,38.5539,-121.3693
+5240 Rocklin Rd,5240 Rocklin Rd 95677 Rocklin,38.7877,-121.2366
+2227 River Plaza Dr,2227 River Plaza Dr 95833 Sacramento,38.6157,-121.5053
+3700 Lyon Rd,3700 Lyon Rd 94534 Fairfield,38.2423,-122.1314
+4315 W 182nd St,4315 W 182nd St 90504 Torrance,33.8708,-118.3295
+8601 Lincoln Blvd,8601 Lincoln Blvd 90045 Los Angeles,33.9631,-118.3941
+240 Avenida Vista Montana,240 Avenida Vista Montana 92672 San Clemente,33.4361,-117.6231
+28856 Silver Saddle Cir,28856 Silver Saddle Cir 91387 Canyon Country,34.4132,-118.426
+23700 Valle del Oro,23700 Valle del Oro 91321 Newhall,34.3795,-118.523
+21311 Alder Dr,21311 Alder Dr 91321 Santa Clarita,34.3795,-118.523
+26660 9th St,26660 9th St 92346 Highland,57.5000001,-5.0000001
+2799 ADRIAN St,2799 ADRIAN St 92110 SAN DIEGO,32.7635,-117.2028
+319 IMPERIAL BEACH Blvd,319 IMPERIAL BEACH Blvd 91932 Imperial Beach,32.5783,-117.1148
+660 Gail Ave,660 Gail Ave 94086 Sunnyvale,37.3764,-122.0238
+1 White Cap Ln,1 White Cap Ln 92657 Newport Beach,33.5943,-117.8334
+16000 Legacy Rd,16000 Legacy Rd 92782 Tustin,33.7346,-117.7869
+345 Village Center Dr,345 Village Center Dr 95134 San Jose,37.4087,-121.9406
+200 Promontory Dr W,200 Promontory Dr W 92660 Newport Beach,33.6295,-117.8684
+25 Pacifica,25 Pacifica 92618 Irvine,33.7074,-117.7054
+1480 S Highland Ave,1480 S Highland Ave 92832 Fullerton,33.868,-117.9265
+910 Del Dios Hwy,910 Del Dios Hwy 92029 Escondido,33.0895,-117.1128
+2901 S Sepulveda Blvd,2901 S Sepulveda Blvd 90064 Los Angeles,34.0353,-118.4259
+935-959 Willowleaf Dr,935-959 Willowleaf Dr 95128 San Jose,37.3163,-121.9356
+60 Rotary Way,60 Rotary Way 94591 Vallejo,38.0985,-122.2124
+44 N Madison Ave,44 N Madison Ave 91101 Pasadena,34.1468,-118.1391
+740 S Western Ave,740 S Western Ave 93458 Santa Maria,34.9535,-120.4957
+401 Canyon Woods Pl,401 Canyon Woods Pl 94583 San Ramon,37.7562,-121.9522
+2088 E Lakeshore Dr,2088 E Lakeshore Dr 92530 Lake Elsinore,33.6598,-117.3485
+3390 Country Village Rd,3390 Country Village Rd 92509 Riverside,34.0033,-117.445
+21200 Kittridge St,21200 Kittridge St 91303 Woodland Hills,34.1993,-118.5983
+24055 Clinton Keith Rd,24055 Clinton Keith Rd 92595 Wildomar,33.6021,-117.264
+15700 Lasselle St,15700 Lasselle St 92551 Moreno Valley,33.8814,-117.2261
+230 Grove Acre Ave,230 Grove Acre Ave 93950 Pacific Grove,36.6167,-121.922
+9830 Reseda Blvd,9830 Reseda Blvd 91324 Northridge,34.2367,-118.5466
+2205 E Leland Rd,2205 E Leland Rd 94565 Pittsburg,38.0031,-121.9172
+1107 Porter St,1107 Porter St 94590 Vallejo,38.1053,-122.2474
+209 S Westmoreland Ave,209 S Westmoreland Ave 90004 Los Angeles,34.0762,-118.3029
+12499 Folsom Blvd,12499 Folsom Blvd 95742 Rancho Cordova,38.5981,-121.2153
+5417 Mack Rd,5417 Mack Rd 95823 Sacramento,38.4797,-121.4438
+1201 Gonzales Ave,1201 Gonzales Ave 93030 Oxnard,34.2141,-119.175
+210 N Beechwood Ave,210 N Beechwood Ave 92376 Rialto,34.1132,-117.3771
+1451 Brabham St,1451 Brabham St 92019 El Cajon,32.7777,-116.9191
+2640 Cambridge Rd,2640 Cambridge Rd 95682 Cameron Park,38.6465,-120.9641
+200 City Blvd W,200 City Blvd W 92868 Orange,33.7875,-117.8776
+1601 W Macarthur Blvd,1601 W Macarthur Blvd 92704 Santa Ana,33.7249,-117.909
+1720 R St,1720 R St 95811 Sacramento,38.5762,-121.488
+201 Glenwood Cir,201 Glenwood Cir 93940 Monterey,36.5802,-121.8443
+1619 Bridle Path,1619 Bridle Path 95210 Stockton,38.025,-121.2972
+9585 Gold Coast Dr,9585 Gold Coast Dr 92126 San Diego,32.9161,-117.1402
+17800 E Colima Ave,17800 E Colima Ave 91748 Rowland Heights,33.9818,-117.8969
+7051 Natal Dr,7051 Natal Dr 92683 Westminster,33.7524,-117.9939
+38441 5th St W,38441 5th St W 93551 Palmdale,34.6017,-118.231
+15120-15150 Grand Ave,15120-15150 Grand Ave 92530 Lake Elsinore,33.6598,-117.3485
+4000 Scenic River Ln,4000 Scenic River Ln 93308 Bakersfield,35.4244,-119.0433
+369 Paseo De Playa,369 Paseo De Playa 93001 Ventura,34.3308,-119.3584
+750 Park Center Dr,750 Park Center Dr 92705 Santa Ana,33.754,-117.7919
+1600 Sand Hill Rd,1600 Sand Hill Rd 94304 Palo Alto,37.4334,-122.1842
+2581 California Park Dr,2581 California Park Dr 95928 Chico,39.7224,-121.8113
+777 E 3rd St,777 E 3rd St 91766 Pomona,34.0418,-117.7569
+645 Lantana St,645 Lantana St 93010 Camarillo,34.2313,-119.0464
+21012 Box Springs Rd,21012 Box Springs Rd 92557 Moreno Valley,33.9553,-117.2457
+3030 W Acacia Ave,3030 W Acacia Ave 92545 Hemet,33.7399,-117.0151
+2288-2300 Miramar Ave,2288-2300 Miramar Ave 94578 San Leandro,37.7024,-122.124
+455 E Nees Ave,455 E Nees Ave 93720 Fresno,36.8579,-119.7655
+1469 Bellevue Ave,1469 Bellevue Ave 94010 Burlingame,37.5671,-122.3676
+10558 Mountain View Ave,10558 Mountain View Ave 92373 Redlands,34.0397,-117.1804
+1510 S Melrose Dr,1510 S Melrose Dr 92081 Vista,33.1644,-117.2403
+28085 Whites Canyon Rd,28085 Whites Canyon Rd 91351 Canyon Country,34.4262,-118.449
+4398 Rainier Way,4398 Rainier Way 92058 Oceanside,33.2696,-117.3423
+3309 Cowley Way,3309 Cowley Way 92117 San Diego,32.8239,-117.1965
+600 Sharon Park Dr,600 Sharon Park Dr 94025 Menlo Park,37.4396,-122.1864
+7413 S Land Park Dr,7413 S Land Park Dr 95831 Sacramento,38.4962,-121.5297
+9900 Acacia Ave,9900 Acacia Ave 92841 Garden Grove,33.7817,-117.9766
+201 W Vineyard Ave,201 W Vineyard Ave 93036 Oxnard,34.2351,-119.182
+22035 Burbank Blvd,22035 Burbank Blvd 91367 Woodland Hills,34.1767,-118.6159
+8400 White Rock Dr,8400 White Rock Dr 93312 Bakersfield,35.3935,-119.1205
+390 Paseo Camarillo,390 Paseo Camarillo 93010 Camarillo,34.2313,-119.0464
+7707 Mission Gorge Rd,7707 Mission Gorge Rd 92120 San Diego,32.7958,-117.0707
+21041 Osterman Rd,21041 Osterman Rd 92630 Lake Forest,33.6437,-117.6868
+73373 Country Club Dr,73373 Country Club Dr 92260 Palm Desert,33.6806,-116.4027
+13921 Tustin East Dr,13921 Tustin East Dr 92780 Tustin,33.7364,-117.8229
+2525 Highland Ave,2525 Highland Ave 91950 National City,,
+42450 Moraga Rd,42450 Moraga Rd 92591 Temecula,33.5217,-117.1286
+6507-6510 Ocean Crest Dr,6507-6510 Ocean Crest Dr 90275 Rancho Palos Verdes,33.7515,-118.367
+4070 Huerfano Ave,4070 Huerfano Ave 92117 San Diego,32.8239,-117.1965
+1120 W Linden St,1120 W Linden St 92507 Riverside,33.9761,-117.3389
+800 E Washington St,800 E Washington St 92324 Colton,34.0315,-117.2874
+7826 Center Pky,7826 Center Pky 95823 Sacramento,38.4797,-121.4438
+2380 Sierra Blvd,2380 Sierra Blvd 95825 Sacramento,38.5892,-121.4057
+5844-6001 Garden Park Ct,5844-6001 Garden Park Ct 95608 Carmichael,38.6284,-121.3287
+10139 Woodley Ave,10139 Woodley Ave 91343 North Hills,34.2366,-118.4758
+40300 Washington St,40300 Washington St 92203 Bermuda Dunes,33.7532,-116.2676
+4930 Polk St,4930 Polk St 95660 North Highlands,38.6707,-121.3781
+Chesebro Rd,Chesebro Rd 91301 Agoura Hills,34.1227,-118.7573
+203 Ladera St,203 Ladera St 93101 Santa Barbara,34.4197,-119.7078
+2255 S Maple Ave,2255 S Maple Ave 93725 Fresno,36.6207,-119.7308
+6232-6233 N Pershing Ave,6232-6233 N Pershing Ave 95207 Stockton,38.0024,-121.3238
+1536 Kerley Dr,1536 Kerley Dr 95112 San Jose,37.3476,-121.887
+1901 N Buena Vista St,1901 N Buena Vista St 91504 Burbank,34.2001,-118.3264
+2547 Temple Ave,2547 Temple Ave 91792 West Covina,34.0229,-117.8975
+965 Wilson Blvd,965 Wilson Blvd 95762 El Dorado Hills,38.685,-121.068
+3300 Renwick Ave,3300 Renwick Ave 95758 Elk Grove,38.4243,-121.437
+2000 Crystal Springs Rd,2000 Crystal Springs Rd 94066 San Bruno,37.6247,-122.429
+26031-26107 Columbia St,26031-26107 Columbia St 92544 Hemet,33.739,-116.9243
