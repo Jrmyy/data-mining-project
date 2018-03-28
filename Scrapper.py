@@ -1,3 +1,6 @@
+# std
+import ast
+
 # 3rd
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -32,7 +35,7 @@ def create_url_db():
 
 
 def create_dict_housing():
-    with open('./url-list.txt', 'r') as f:
+    with open('data/url-list.txt', 'r') as f:
         links = f.readlines()
         dict_apt = {}
         ap_id = 0
@@ -86,7 +89,6 @@ def create_dict_housing():
                 else:
                     dict_apt[ap_id]['rent'] = 0
                 dict_apt[ap_id]['model'] = ap.attrs['data-model']
-
                 sqrft = ap.findChild('td', class_='sqft')
                 if sqrft.contents != []:
                     sqrft = sqrft.contents[0]
@@ -101,11 +103,44 @@ def create_dict_housing():
                 else:
                     dict_apt[ap_id]['size'] = 0
 
-        df = pd.DataFrame.from_dict(dict_apt)
+        with open("data/dict_housing.txt", "w") as out:
+            out.write(str(dict_apt))
+
+
+def find_features():
+    with open('data/dict_housing.txt', 'r') as f_in:
+        file = f_in.read()
+        housing_dict = ast.literal_eval(file)
+        features = []
+        for ele in housing_dict.keys():
+            for feature in housing_dict[ele]['features']:
+                if feature not in features:
+                    features += [feature]
+        return features
+
+
+def create_dataframe_with_features():
+    with open('data/dict_housing.txt', 'r') as f_in:
+        file = f_in.read()
+        housing_dict = ast.literal_eval(file)
+        features = find_features()
+        parking = ['Surface Lot and Covered', 'Garage', 'Surface Lot', 'Covered']
+        for ele in housing_dict.keys():
+            for feature in features:
+                if feature in housing_dict[ele]['features']:
+                    housing_dict[ele][feature] = 1
+                else:
+                    housing_dict[ele][feature] = 0
+            for gar in parking:
+                if gar in housing_dict[ele]['parking']:
+                    housing_dict[ele][gar] = 1
+                else:
+                    housing_dict[ele][gar] = 0
+        df = pd.DataFrame.from_dict(housing_dict)
+        df = df.transpose()
         df.to_csv('data/apartments.csv')
 
-print('Creating all the urls to fetch')
+
 create_url_db()
-print('Fetching all the links to create the dataframe')
 create_dict_housing()
-print('Dataframe saved')
+create_dataframe_with_features()
