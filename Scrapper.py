@@ -3,6 +3,7 @@ import requests
 import ast
 import pandas as pd
 
+
 def create_url_db():
 
     BASE_URL = 'https://www.apartments.com/ca/'
@@ -20,6 +21,7 @@ def create_url_db():
         f = open("./url-list2.txt", "w")
         f.write(str(url_list))
         f.close()
+
 
 def create_dict_housing():
 
@@ -99,6 +101,7 @@ def create_dict_housing():
         #print(len(dict_apt))
     #print(dict_apt)
 
+
 def create_dataframe():
 
     f = open('./Data2.txt', 'r')
@@ -109,10 +112,53 @@ def create_dataframe():
     df.to_csv('Apartments.csv')
 
 
+def find_features():
+
+    f = open('./Data2.txt', 'r')
+    file = f.read()
+    housing_dict = ast.literal_eval(file)
+    features = []
+    for ele in housing_dict.keys():
+        for feature in housing_dict[ele]['features']:
+            if feature not in features:
+                features += [feature]
+    print(features)
+    return features
+
+def add_features():
+    f = open('./Data2.txt', 'r')
+    file = f.read()
+    housing_dict = ast.literal_eval(file)
+    features = find_features()
+    for ele in housing_dict.keys():
+        for feature in features:
+            if feature in housing_dict[ele]['features']:
+                housing_dict[ele][feature] = 1
+            else:
+                housing_dict[ele][feature] = 0
+    df = pd.DataFrame.from_dict(housing_dict)
+    df = df.transpose()
+    df.to_csv('Apartments_w_features.csv')
+
+def add_garage():
+    f = open('Apartments_w_features.csv')
+    file = f.read()
+    housing_dict = ast.literal_eval(file)
+    garage = ['Surface Lot and Covered', 'Garage', 'Surface Lot', 'Covered']
+    for ele in housing_dict.keys():
+        for gar in garage:
+            if gar in housing_dict[ele]['parking']:
+                housing_dict[ele][gar] = 1
+            else:
+                housing_dict[ele][gar] = 0
+    df = pd.DataFrame.from_dict(housing_dict)
+    df = df.transpose()
+    df.to_csv('Apartments_w_features_w_parking.csv')
 
 
-
-
-create_url_db()
+#create_url_db()
 #create_dict_housing()
 #create_dataframe()
+#find_features()
+#add_features()
+add_garage()
