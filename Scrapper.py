@@ -130,23 +130,14 @@ def add_features():
     file = f.read()
     housing_dict = ast.literal_eval(file)
     features = find_features()
+    parking = ['Surface Lot and Covered', 'Garage', 'Surface Lot', 'Covered']
     for ele in housing_dict.keys():
         for feature in features:
             if feature in housing_dict[ele]['features']:
                 housing_dict[ele][feature] = 1
             else:
                 housing_dict[ele][feature] = 0
-    df = pd.DataFrame.from_dict(housing_dict)
-    df = df.transpose()
-    df.to_csv('Apartments_w_features.csv')
-
-def add_garage():
-    f = open('Apartments_w_features.csv')
-    file = f.read()
-    housing_dict = ast.literal_eval(file)
-    garage = ['Surface Lot and Covered', 'Garage', 'Surface Lot', 'Covered']
-    for ele in housing_dict.keys():
-        for gar in garage:
+        for gar in parking:
             if gar in housing_dict[ele]['parking']:
                 housing_dict[ele][gar] = 1
             else:
@@ -160,5 +151,5 @@ def add_garage():
 #create_dict_housing()
 #create_dataframe()
 #find_features()
-#add_features()
-add_garage()
+add_features()
+
