@@ -47,7 +47,7 @@ def create_dict_housing():
     ap_id = 0
     try:
         with open('data/url-list.txt', 'r') as f:
-            links = f.readlines()
+            links = ast.literal_eval(f)
             # For each link
             for link in links:
                 req = requests.get(link)
@@ -120,7 +120,7 @@ def create_dict_housing():
                     else:
                         dict_apt[ap_id]['rent'] = 0
                     dict_apt[ap_id]['model'] = ap.attrs['data-model']
-                    # We add sqare feet
+                    # We add square feet
                     sqrft = ap.findChild('td', class_='sqft')
                     if sqrft.contents:
                         sqrft = sqrft.contents[0]

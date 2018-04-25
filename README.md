@@ -25,11 +25,12 @@ Nous avons donc décidé d'abandonner cette étude pour deux raisons principales
 - Comme nous le verrons par la suite, l'ajout de la localisation n'apporte pas plus de précision, elle n'est donc pas un critère déterminant
 - Une méthode à laquelle nous avions pensé, et qui suggérait de créer des grilles et de réaliser des algorithmes locaux pour déterminer des caractéristiques de quartier nous a paru fastidieuse et non prioritaire.
 
-## La prédiction des loyers:
+## La prédiction des loyers (voir notebook "DAC_Californie"
 
-Pour réaliser la prédiction des loyers, nous nous sommes appuyés sur 4 algorithmes que nous avons comparé:
+Pour réaliser la prédiction des loyers, nous nous sommes appuyés sur 3 algorithmes que nous avons comparé:
 
-- Naives Bayes
+- Regression Polynomiale
 - Random Forest
-- Support Vector Machine
 - Gradient Boosting
+
+Nous constatons que le Gradient Boosting est fidèle à sa réputation, et nous obtenons de très bons résultats avec celui-ci : 89% d'accuracy.
